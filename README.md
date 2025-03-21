@@ -1,7 +1,7 @@
 # 🤖 Chatbot Inteligente com Google Gemini  
 Chatbot Inteligente - Assistente de Trânsito e Comandos da Polícia
 
-Um chatbot interativo que utiliza a API do Google Gemini para responder perguntas de forma didática e bem-humorada.
+Um chatbot interativo que utiliza a API do Google Gemini para responder perguntas de forma didática.
 
 🚀 Funcionalidades
 
