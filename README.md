@@ -52,3 +52,5 @@ Resumo das respostas:
 2. Limite de velocidade urbano é 50 km/h, salvo exceções.
 3. Em bloqueios policiais, siga as instruções e aja com prudência.
 
+Link para vídeo explicativo:
+https://youtu.be/m73Duwye1OA
